@@ -1,0 +1,114 @@
+
+.q2{
+  
+    height: 80px;
+     width: 100%;
+     background-color: rgb(117, 134, 233);
+     border: none;
+    border-radius: 0;
+    bottom: 1px;
+   margin-top: 107px;
+   position: fixed; 
+   z-index: 100;
+    
+    }
+  
+  
+  
+    #form1 {
+        background-color:#0562ec;
+        color: white;
+        padding: 27px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 40px;
+        
+     
+     }
+     #btn_Home {
+        background-color:#0562ec;
+        color: white;
+        padding: 20px 27px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 40px;
+        margin-top: 70px;
+     
+     }
+     #q3{
+    
+      height: 80px;
+       width: 100%;
+       background-color: rgb(117, 134, 233);
+       border: none;
+      border-radius: 0;
+      top: 1px;
+     margin-bottom: 0px;
+     position: fixed; 
+     z-index: 100;
+      
+      
+      }
+      
+    #btn_login2{
+       
+      background-color:#2d545e; /* Green */
+      border: none;
+      color: white;
+     
+      text-align: center;
+      text-decoration: none;
+    
+      font-size: 16px;
+      width: 80px;
+      height: 80px;
+      border-radius: 50px;
+      margin-left:-40px ;
+      padding-top: 0px;
+       
+      position: absolute;
+    
+    }
+    #q5
+    {
+  margin-top: 3px;
+    }
+      #q6 {
+       
+       background-color: #0562ec; /* Green */
+       border: none;
+       color: white;
+       padding: 5px 2px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+       width: 80px;
+       height: 80px;
+       border-radius: 50px;
+   
+        
+       position: absolute;
+     
+     }
+
+    #btn_login {
+      background-color:#2d545e; /* Green */
+      border: none;
+      color: white;
+     
+      text-align: center;
+      text-decoration: none;
+    
+      font-size: 16px;
+      width: 50px;
+      height: 30px;
+    
+      padding-top: 2px;
+      margin-top: 5px;
+      right: 10px;
+      position: absolute;
+    
+    }

@@ -1,0 +1,80 @@
+#btn_ajouter {
+     
+  background-color:white; /* Green */
+  border: none;
+  color: white;
+ 
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  margin-left:79% ;
+  padding-top: 0px;
+   
+  position: fixed; 
+  z-index: 100;
+
+}
+  #btn_home {
+     
+    background-color:0562ec; /* Green */
+    border: none;
+    color: white;
+   
+    text-align: center;
+    text-decoration: none;
+  
+    font-size: 16px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left:0px ;
+    padding-top: 0px;
+     
+    position: fixed; 
+    z-index: 100;
+  
+  }
+
+  #btn_modifies{
+   
+    background-color:0562ec; /* Green */     border: none;
+   color: white;
+  
+   text-align: center;
+   text-decoration: none;
+ 
+   font-size: 16px;
+   width: 100px;
+   height: 50px;
+   border-radius: 10px;
+   margin-right:40px ;
+   margin-top:0px ;
+   padding-top: 0px;
+    
+   position: static;
+ 
+ 
+ }
+ #btn_delette{
+   
+   background-color:0562ec; /* Green */     border: none;
+   color:rgb(250, 188, 129);
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left:0px ;
+  margin-top:0px ;
+  padding-top: 0px;
+   
+  position: static;
+
+
+}
